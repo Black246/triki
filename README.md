@@ -1,0 +1,2 @@
+# triki
+tarea de móvil 
